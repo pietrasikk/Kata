@@ -11,6 +11,7 @@
     <modules>
         <module>StringCalculator</module>
         <module>PasswordValidation</module>
+        <module>SearchFunctionality</module>
     </modules>
 
     <properties>

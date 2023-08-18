@@ -13,6 +13,10 @@ target/
 **/target/
 **/logs/
 *.class
+**/.settings/
+**/eclipsebin/
+*-testclasses.xml
+*-webtestclasses.xml
 
 # Compiled class file
 *.class
