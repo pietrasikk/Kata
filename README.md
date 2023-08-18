@@ -1,0 +1,2 @@
+# Kata
+Kata - programming exercises
