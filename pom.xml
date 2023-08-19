@@ -12,6 +12,7 @@
         <module>StringCalculator</module>
         <module>PasswordValidation</module>
         <module>SearchFunctionality</module>
+        <module>FooBar</module>
     </modules>
 
     <properties>
