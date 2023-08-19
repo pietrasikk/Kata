@@ -13,6 +13,7 @@
         <module>PasswordValidation</module>
         <module>SearchFunctionality</module>
         <module>FooBar</module>
+        <module>PointOfsale</module>
     </modules>
 
     <properties>
