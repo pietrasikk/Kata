@@ -14,6 +14,7 @@
         <module>SearchFunctionality</module>
         <module>FooBar</module>
         <module>PointOfsale</module>
+        <module>Baking</module>
     </modules>
 
     <properties>
