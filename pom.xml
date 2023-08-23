@@ -15,6 +15,7 @@
         <module>FooBar</module>
         <module>PointOfsale</module>
         <module>Baking</module>
+        <module>ShoppingCart</module>
     </modules>
 
     <properties>
@@ -29,6 +30,12 @@
                 <groupId>org.junit.jupiter</groupId>
                 <artifactId>junit-jupiter-api</artifactId>
                 <version>5.10.0</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.mockito</groupId>
+                <artifactId>mockito-core</artifactId>
+                <version>5.4.0</version>
                 <scope>test</scope>
             </dependency>
         </dependencies>
