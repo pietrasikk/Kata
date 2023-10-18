@@ -16,6 +16,7 @@
         <module>PointOfsale</module>
         <module>Baking</module>
         <module>ShoppingCart</module>
+        <module>Atm</module>
     </modules>
 
     <properties>
